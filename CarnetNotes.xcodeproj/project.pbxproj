@@ -8,13 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		8837BD231DE2EE6000DEAA6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD221DE2EE6000DEAA6A /* AppDelegate.swift */; };
-		8837BD251DE2EE6000DEAA6A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD241DE2EE6000DEAA6A /* FirstViewController.swift */; };
-		8837BD271DE2EE6000DEAA6A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD261DE2EE6000DEAA6A /* SecondViewController.swift */; };
 		8837BD2A1DE2EE6000DEAA6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8837BD281DE2EE6000DEAA6A /* Main.storyboard */; };
 		8837BD2C1DE2EE6000DEAA6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8837BD2B1DE2EE6000DEAA6A /* Assets.xcassets */; };
 		8837BD2F1DE2EE6000DEAA6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8837BD2D1DE2EE6000DEAA6A /* LaunchScreen.storyboard */; };
 		8837BD3A1DE2EE6100DEAA6A /* CarnetNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD391DE2EE6100DEAA6A /* CarnetNotesTests.swift */; };
 		8837BD451DE2EE6100DEAA6A /* CarnetNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD441DE2EE6100DEAA6A /* CarnetNotesUITests.swift */; };
+		8837BD531DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD521DE2FF1D00DEAA6A /* AcademicsTableViewController.swift */; };
+		8837BD541DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD521DE2FF1D00DEAA6A /* AcademicsTableViewController.swift */; };
+		8837BD551DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD521DE2FF1D00DEAA6A /* AcademicsTableViewController.swift */; };
+		8837BD571DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD561DE305A000DEAA6A /* NewAcademicViewController.swift */; };
+		8837BD581DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD561DE305A000DEAA6A /* NewAcademicViewController.swift */; };
+		8837BD591DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD561DE305A000DEAA6A /* NewAcademicViewController.swift */; };
+		8837BD6F1DE5498D00DEAA6A /* Academic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD6E1DE5498D00DEAA6A /* Academic.swift */; };
+		8837BD701DE5498D00DEAA6A /* Academic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD6E1DE5498D00DEAA6A /* Academic.swift */; };
+		8837BD711DE5498D00DEAA6A /* Academic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD6E1DE5498D00DEAA6A /* Academic.swift */; };
+		8837BD771DE5543200DEAA6A /* TestsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD761DE5543200DEAA6A /* TestsTableViewController.swift */; };
+		8837BD781DE5543200DEAA6A /* TestsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD761DE5543200DEAA6A /* TestsTableViewController.swift */; };
+		8837BD791DE5543200DEAA6A /* TestsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD761DE5543200DEAA6A /* TestsTableViewController.swift */; };
+		8837BD7B1DE5987000DEAA6A /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD7A1DE5987000DEAA6A /* Test.swift */; };
+		8837BD7C1DE5987000DEAA6A /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD7A1DE5987000DEAA6A /* Test.swift */; };
+		8837BD7D1DE5987000DEAA6A /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837BD7A1DE5987000DEAA6A /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,8 +50,6 @@
 /* Begin PBXFileReference section */
 		8837BD1F1DE2EE6000DEAA6A /* CarnetNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarnetNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8837BD221DE2EE6000DEAA6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8837BD241DE2EE6000DEAA6A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		8837BD261DE2EE6000DEAA6A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		8837BD291DE2EE6000DEAA6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8837BD2B1DE2EE6000DEAA6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8837BD2E1DE2EE6000DEAA6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +60,11 @@
 		8837BD401DE2EE6100DEAA6A /* CarnetNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarnetNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8837BD441DE2EE6100DEAA6A /* CarnetNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarnetNotesUITests.swift; sourceTree = "<group>"; };
 		8837BD461DE2EE6100DEAA6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8837BD521DE2FF1D00DEAA6A /* AcademicsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AcademicsTableViewController.swift; sourceTree = "<group>"; };
+		8837BD561DE305A000DEAA6A /* NewAcademicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAcademicViewController.swift; sourceTree = "<group>"; };
+		8837BD6E1DE5498D00DEAA6A /* Academic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Academic.swift; sourceTree = "<group>"; };
+		8837BD761DE5543200DEAA6A /* TestsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestsTableViewController.swift; sourceTree = "<group>"; };
+		8837BD7A1DE5987000DEAA6A /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,12 +116,15 @@
 			isa = PBXGroup;
 			children = (
 				8837BD221DE2EE6000DEAA6A /* AppDelegate.swift */,
-				8837BD241DE2EE6000DEAA6A /* FirstViewController.swift */,
-				8837BD261DE2EE6000DEAA6A /* SecondViewController.swift */,
+				8837BD6E1DE5498D00DEAA6A /* Academic.swift */,
+				8837BD7A1DE5987000DEAA6A /* Test.swift */,
 				8837BD281DE2EE6000DEAA6A /* Main.storyboard */,
 				8837BD2B1DE2EE6000DEAA6A /* Assets.xcassets */,
 				8837BD2D1DE2EE6000DEAA6A /* LaunchScreen.storyboard */,
 				8837BD301DE2EE6000DEAA6A /* Info.plist */,
+				8837BD521DE2FF1D00DEAA6A /* AcademicsTableViewController.swift */,
+				8837BD761DE5543200DEAA6A /* TestsTableViewController.swift */,
+				8837BD561DE305A000DEAA6A /* NewAcademicViewController.swift */,
 			);
 			path = CarnetNotes;
 			sourceTree = "<group>";
@@ -262,9 +281,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8837BD271DE2EE6000DEAA6A /* SecondViewController.swift in Sources */,
+				8837BD6F1DE5498D00DEAA6A /* Academic.swift in Sources */,
+				8837BD531DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */,
+				8837BD571DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */,
 				8837BD231DE2EE6000DEAA6A /* AppDelegate.swift in Sources */,
-				8837BD251DE2EE6000DEAA6A /* FirstViewController.swift in Sources */,
+				8837BD771DE5543200DEAA6A /* TestsTableViewController.swift in Sources */,
+				8837BD7B1DE5987000DEAA6A /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +294,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8837BD701DE5498D00DEAA6A /* Academic.swift in Sources */,
+				8837BD541DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */,
+				8837BD581DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */,
 				8837BD3A1DE2EE6100DEAA6A /* CarnetNotesTests.swift in Sources */,
+				8837BD781DE5543200DEAA6A /* TestsTableViewController.swift in Sources */,
+				8837BD7C1DE5987000DEAA6A /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +307,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8837BD711DE5498D00DEAA6A /* Academic.swift in Sources */,
+				8837BD551DE2FF1D00DEAA6A /* AcademicsTableViewController.swift in Sources */,
+				8837BD591DE305A000DEAA6A /* NewAcademicViewController.swift in Sources */,
 				8837BD451DE2EE6100DEAA6A /* CarnetNotesUITests.swift in Sources */,
+				8837BD791DE5543200DEAA6A /* TestsTableViewController.swift in Sources */,
+				8837BD7D1DE5987000DEAA6A /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
